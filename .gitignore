@@ -1,0 +1,4 @@
+#Untracked and large files
+*.h5ad
+*.h5
+.Trash*

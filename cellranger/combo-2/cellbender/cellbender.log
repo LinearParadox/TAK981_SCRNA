@@ -1,0 +1,10 @@
+cellbender:remove-background: Command:
+cellbender remove-background --cuda --input cellranger/combo-2/raw_feature_bc_matrix.h5 --output cellranger/combo-2/cellbender/cellbender.h5
+cellbender:remove-background: CellBender 0.3.0
+cellbender:remove-background: (Workflow hash 4291189bdf)
+cellbender:remove-background: 2024-10-05 08:32:55
+cellbender:remove-background: Running remove-background
+cellbender:remove-background: Loading data from cellranger/combo-2/raw_feature_bc_matrix.h5
+cellbender:remove-background: CellRanger v3 format
+cellbender:remove-background: Features in dataset: 33696 Gene Expression
+cellbender:remove-background: Trimming features for inference.
