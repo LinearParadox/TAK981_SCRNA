@@ -1,4 +1,8 @@
 #Untracked and large files
 *.h5ad
 *.h5
-.Trash*
+.Trash-1000/
+**/.ipynb_checkpoints
+scvi_log
+.RData
+.Rhistory
