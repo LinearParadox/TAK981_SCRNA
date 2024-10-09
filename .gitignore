@@ -6,3 +6,4 @@
 scvi_log
 .RData
 .Rhistory
+*.pickle
