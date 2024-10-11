@@ -7,3 +7,4 @@ scvi_log
 .RData
 .Rhistory
 *.pickle
+csv/de
