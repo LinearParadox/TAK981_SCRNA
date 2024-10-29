@@ -8,4 +8,4 @@ scvi_log
 .Rhistory
 *.pickle
 csv/de
-*.png
+h5ad/*
