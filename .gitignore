@@ -9,3 +9,4 @@ scvi_log
 *.pickle
 *.pckl
 EXCLUDE
+figs/OLD
