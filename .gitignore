@@ -8,7 +8,4 @@ scvi_log
 .Rhistory
 *.pickle
 *.pckl
-csv/de
-*.png
-*.csv
 EXCLUDE
