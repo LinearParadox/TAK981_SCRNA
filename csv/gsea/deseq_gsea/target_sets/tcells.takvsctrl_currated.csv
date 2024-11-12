@@ -1,0 +1,2 @@
+"","ID","Description","setSize","enrichmentScore","NES","pvalue","p.adjust","qvalue","rank","leading_edge","core_enrichment"
+"HALLMARK_INFLAMMATORY_RESPONSE","HALLMARK_INFLAMMATORY_RESPONSE","HALLMARK_INFLAMMATORY_RESPONSE",101,0.443140423569567,1.7676550959567,0.00131115206733171,0.0419568661546146,0.0400246420553889,752,"tags=14%, list=7%, signal=13%","Timp1/Adm/Nlrp3/Il1b/Ifitm1/Serpine1/Cd14/Il1a/Ccl5/Pik3r5/Ldlr/Plaur/Irak2/Il15ra"

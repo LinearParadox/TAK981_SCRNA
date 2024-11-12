@@ -10,3 +10,4 @@ scvi_log
 *.pckl
 EXCLUDE
 figs/OLD
+*.zip
