@@ -8,5 +8,6 @@ scvi_log
 .Rhistory
 *.pickle
 *.pckl
+csv/*
 EXCLUDE
 figs/OLD
