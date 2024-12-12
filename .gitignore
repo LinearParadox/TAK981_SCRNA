@@ -1,0 +1,15 @@
+#Untracked and large files
+*.h5ad
+*.h5
+.Trash-1000/
+**/.ipynb_checkpoints
+scvi_log
+.RData
+.Rhistory
+*.pickle
+*.pckl
+csv/*
+EXCLUDE
+figs/OLD
+*.RData
+h5ad/*
