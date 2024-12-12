@@ -11,3 +11,4 @@ scvi_log
 csv/*
 EXCLUDE
 figs/OLD
+*.RData
