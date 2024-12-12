@@ -8,8 +8,13 @@ scvi_log
 .Rhistory
 *.pickle
 *.pckl
+<<<<<<< HEAD
 csv/*
 EXCLUDE
 figs/OLD
 *.RData
 h5ad/*
+=======
+EXCLUDE
+figs/OLD
+>>>>>>> fab3f6bb655aedc8f5f66436b10ac6c834c3f009
