@@ -12,3 +12,4 @@ csv/*
 EXCLUDE
 figs/OLD
 *.RData
+h5ad/*
